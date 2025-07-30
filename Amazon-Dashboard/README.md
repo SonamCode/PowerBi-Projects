@@ -1,3 +1,3 @@
-# Auction Dashboard Christies
+# Amazon Dashboard
 
 <img src="./amazon.png" alt="Amazon Dashboard" />
