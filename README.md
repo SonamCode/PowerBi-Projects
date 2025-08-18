@@ -18,3 +18,8 @@
 > Bottom 5 pizza by Revenue, Quantity & Total orders
   
 <img src="./Pizza-Sales/pizza_sellers.png" alt="Pizza Sellers"/>
+
+## Amazon Sales Analysis
+#### These dashboard present sale analysis for amazon products.
+
+<img src="./Amazon-Sales-Analysis/Amazon _Dashboard.png" alt =" Amazon Sales Dashboard"/>
